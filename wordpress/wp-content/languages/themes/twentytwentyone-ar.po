@@ -1,0 +1,759 @@
+# Translation of Themes - Twenty Twenty-One in Arabic
+# This file is distributed under the same license as the Themes - Twenty Twenty-One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-18 01:38:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Twenty Twenty-One\n"
+
+#. Description of the theme
+msgid "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog."
+msgstr "قالب Twenty Twenty-One عبارة عن لوحة فارغة لأفكارك وهي تجعل من محرّر المكوّنات أفضل فرشاة لرسمها. مع أنماط المكوّن الجديدة، التي تتيح لك إنشاء تصميم جميل في غضون ثوانٍ، هذه الألوان الناعمة لهذا القالب وتصميمه المُلفت الجذاب — والعصري — ستجعل عملك يتألق. احصل على جولتك! وشاهد كيف يرفع قالب Twenty Twenty-One مستوى معرض أعمالك، موقعك، أو مدونتك الشخصية."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Twenty-One"
+msgstr "Twenty Twenty-One"
+
+#: inc/template-tags.php:245
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr "<span class=\"nav-short\">مقالات</span> أقدم"
+
+#: inc/template-tags.php:234
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr "<span class=\"nav-short\">مقالات</span> أحدث"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:40
+#: classes/class-twenty-twenty-one-dark-mode.php:178
+msgid "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+msgstr "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+
+#. translators: %s: Twenty Twenty-One support article URL.
+#: classes/class-twenty-twenty-one-dark-mode.php:177
+msgid "Dark Mode is a device setting. If a visitor to your site requests it, your site will be shown with a dark background and light text. <a href=\"%s\">Learn more about Dark Mode.</a>"
+msgstr "الوضع الداكن هو أحد إعدادات الجهاز. إذا طلب زائر موقعك ذلك، فسيتم عرض موقعك بخلفية داكنة ونصّ فاتح. <a href=\"%s\">معرفة المزيد عن الوضع الليلي (الداكن).</a>"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:181
+msgid "Dark Mode can also be turned on and off with a button that you can find in the bottom right corner of the page."
+msgstr "يمكن أيضًا تشغيل أو إيقاف الوضع الداكن باستخدام زرّ يمكنك العثور عليه في الركن السفلي الأيمن من الصفحة."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:380
+msgid "This website uses LocalStorage to save the setting when Dark Mode support is turned on or off.<br> LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.<br> No data is saved in the database or transferred."
+msgstr "يستخدم موقع الويب هذا التخزين المحلي (LocalStorage) لحفظ الإعدادات عند تشغيل دعم الوضع الداكن أو إيقافه.<br> التخزين المحلي ضروريًا حتى تعمل الإعدادات ويتم استخدامه فقط عندما ينقر المستخدم على زر الوضع الداكن.<br> لا يتم حفظ أي بيانات في قاعدة البيانات أو نقلها."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:379
+msgid "Suggested text:"
+msgstr "نص مقترح:"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:378
+msgid "Twenty Twenty-One uses LocalStorage when Dark Mode support is enabled."
+msgstr "يستخدم قالب Twenty Twenty-One التخزين المحلي (LocalStorage) عند تمكين دعم الوضع الداكن."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:188
+msgid "Dark Mode support"
+msgstr "دعم الوضع الداكن"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:41
+msgid "Learn more about Dark Mode."
+msgstr "معرفة المزيد عن الوضع الليلي."
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:39
+msgid "To access the Dark Mode settings, select a light background color."
+msgstr "للوصول إلى إعدادات الوضع الداكن، حدّد لون خلفية فاتح."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:134
+msgid "Colors & Dark Mode"
+msgstr "الألوان والوضع الداكن"
+
+#: inc/template-tags.php:77
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr "مقالة مميّزة"
+
+#: inc/template-functions.php:424
+msgctxt "Post password form"
+msgid "Submit"
+msgstr "إرسال"
+
+#: inc/template-functions.php:424
+msgctxt "Post password form"
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: inc/template-functions.php:183
+msgctxt "Added to posts and pages that are missing titles"
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "Cambridge, MA, 02139"
+msgstr "كامبريدج، ماساتشوستس، 02139"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123 Main Street"
+msgstr "123 الشارع الرئيسي"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123-456-7890"
+msgstr "‎123-456-7890"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: classes/class-twenty-twenty-one-customize.php:138
+msgctxt "Customizer control"
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#. translators: %s: WordPress Version.
+#. translators: %s: WordPress Version.
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "هذا القالب يتطلب ووردبريس 5.3 أو أحدث. أنت تستخدم حالياً النسخة %s. يُرجى الترقية."
+
+#. translators: %: Page number.
+#. translators: %: Page number.
+#. translators: %: Page number.
+#. translators: %: Page number.
+#: image.php:48 template-parts/content/content-page.php:36
+#: template-parts/content/content-single.php:30
+#: template-parts/content/content.php:36
+msgid "Page %"
+msgstr "الصفحة %"
+
+#: functions.php:187
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: functions.php:181
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:175
+msgctxt "Font size"
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:169
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: functions.php:163
+msgctxt "Font size"
+msgid "M"
+msgstr "M"
+
+#: functions.php:157
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:151
+msgctxt "Font size"
+msgid "XS"
+msgstr "XS"
+
+#: comments.php:87
+msgid "Leave a comment"
+msgstr "اترك تعليقاً"
+
+#. translators: %s: Comment count number.
+#: comments.php:40
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s تعليق"
+msgstr[1] "تعليق واحد"
+msgstr[2] "تعليقان"
+msgstr[3] "%s تعليقات"
+msgstr[4] "%s تعليق"
+msgstr[5] "%s تعليق"
+
+#: comments.php:35
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:334
+msgid "On"
+msgstr "مفعل"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:331
+msgid "Off"
+msgstr "معطّل"
+
+#. translators: %s: On/Off
+#: classes/class-twenty-twenty-one-dark-mode.php:321
+msgid "Dark Mode: %s"
+msgstr "الوضع الداكن: %s"
+
+#: inc/template-functions.php:422
+msgid "This content is password protected. Please enter a password to view."
+msgstr "هذا المحتوى محمي بكلمة مرور. الرجاء إدخال كلمة مرور لعرضها."
+
+#: inc/menu-functions.php:34
+msgid "Open menu"
+msgstr "فتح القائمة"
+
+#: inc/block-patterns.php:107
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr "&#8220;قراءة&#8221; بواسطة بيرث موريسو"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr "&#8220;تصوير شخصي&#8221; بواسطة بيرث موريسو"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr "&#8220;النرجس&#8221; بواسطة بيرث موريسو"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:43
+msgid "&#8220;Roses Trémières&#8221; by Berthe Morisot"
+msgstr "&#8220;الخطمية الوردية&#8221; بواسطة بيرث موريسو"
+
+#: inc/template-functions.php:424
+msgctxt "Post password form"
+msgid "Enter"
+msgstr "إدخال"
+
+#: inc/starter-content.php:128
+msgctxt "Theme starter content"
+msgid "Check out the Support Forums"
+msgstr "ألقِ نظرة على منتديات الدعم"
+
+#: inc/starter-content.php:122
+msgctxt "Theme starter content"
+msgid "Read the Theme Documentation"
+msgstr "إقرأ مستندات ووثائق القالب"
+
+#: inc/starter-content.php:112
+msgctxt "Theme starter content"
+msgid "Need help?"
+msgstr "بحاجة إلى مساعدة؟"
+
+#: inc/starter-content.php:97
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One also includes an overlap style for column blocks. With a Columns block selected, open the \"Styles\" panel within the Editor sidebar. Choose the \"Overlap\" block style to try it out."
+msgstr "يتضمن قالب Twenty Twenty-One أيضًا نمط التداخل لمكوّنات الأعمدة. مع تحديد مكوّن الأعمدة، افتح لوحة \"الأنماط\" في الشريط الجانبي للمحرر. اختر نمط مكوّن الـ \"تداخل\" لتجربته."
+
+#: inc/starter-content.php:93
+msgctxt "Theme starter content"
+msgid "Overlap columns"
+msgstr "أعمدة متداخلة"
+
+#: inc/starter-content.php:87
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One includes stylish borders for your content. With an Image block selected, open the \"Styles\" panel within the Editor sidebar. Select the \"Frame\" block style to activate it."
+msgstr "يتضمن قالب Twenty Twenty-One حدوداً أنيقة للمحتوى الخاص بك. مع تحديد مكوّن صورة، افتح لوحة \"الأنماط\" في الشريط الجانبي للمحرر. حدّد نمط مكوّن الـ \"إطار\" لتفعيله."
+
+#: inc/starter-content.php:83
+msgctxt "Theme starter content"
+msgid "Frame your images"
+msgstr "ضع إطارًا لصورك"
+
+#: inc/starter-content.php:77
+msgctxt "Theme starter content"
+msgid "Block patterns are pre-designed groups of blocks. To add one, select the Add Block button [+] in the toolbar at the top of the editor. Switch to the Patterns tab underneath the search bar, and choose a pattern."
+msgstr "أنماط المكوّن عبارة عن مجموعات من المكوّنات المصممة مسبقاً. لإضافة نمط، حدّد زر إضافة مكوّن [+] في شريط الأدوات أعلى المحرر. قم بالتبديل إلى تبويب الأنماط الموجود أسفل شريط البحث، واختر نمطاً."
+
+#: inc/starter-content.php:73
+msgctxt "Theme starter content"
+msgid "Add block patterns"
+msgstr "إضافة أنماط مكوّن"
+
+#: inc/starter-content.php:30 inc/starter-content.php:33
+msgctxt "Theme starter content"
+msgid "Create your website with blocks"
+msgstr "قم بإنشاء موقعك بواسطة المكوّنات"
+
+#: inc/block-patterns.php:107
+msgid "Reading"
+msgstr "قراءة"
+
+#: inc/block-patterns.php:107
+msgid "Young Woman in Mauve"
+msgstr "شابة بالبنفسجي"
+
+#: inc/block-patterns.php:107
+msgid "The Garden at Bougival"
+msgstr "الحديقة في بوجيفال"
+
+#: inc/block-patterns.php:107
+msgid "In the Bois de Boulogne"
+msgstr "في غابة بوجيفال"
+
+#: inc/block-patterns.php:107
+msgid "Villa with Orange Trees, Nice"
+msgstr "فيلا مع أشجار البرتقال، نيس"
+
+#: inc/block-patterns.php:107
+msgid "Roses Trémières"
+msgstr "خطمية وردية"
+
+#: inc/block-patterns.php:96
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr "«فيلا مع أشجار البرتقال، نيس» بواسطة بيرت موريسو"
+
+#: inc/block-patterns.php:96
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr "حدائق جميلة رسمها بيرت موريسوت في أواخر القرن التاسع عشر"
+
+#: inc/block-patterns.php:96 inc/block-patterns.php:107
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr "«حديقة بوجيفال» بواسطة بيرت موريسو"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:61
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr "«شابة بالبنفسجي» بواسطة بيرت موريسو"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:51
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr "«في غابة بوجيفال» بواسطة بيرت موريسو"
+
+#: inc/block-patterns.php:60
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr "بيرت موريسو<br>(فرنسية، 1841-1895)"
+
+#: inc/block-patterns.php:60
+msgid "Playing in the Sand"
+msgstr "اللعب في الرمال"
+
+#: inc/block-patterns.php:60
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr "«اللعب في الرمال» بواسطة بيرت موريسو"
+
+#. translators: %s: Parent post.
+#: image.php:61
+msgid "Published in %s"
+msgstr "تم النشر في %s"
+
+#: classes/class-twenty-twenty-one-customize.php:108
+msgid "Summary"
+msgstr "ملخّص (موجز)"
+
+#: classes/class-twenty-twenty-one-customize.php:85
+msgid "Excerpt Settings"
+msgstr "إعدادات المقتطف"
+
+#: inc/block-styles.php:98
+msgid "Thick"
+msgstr "سميك"
+
+#: classes/class-twenty-twenty-one-customize.php:106
+msgid "On Archive Pages, posts show:"
+msgstr "في صفحات الأرشيف، تظهر المقالات:"
+
+#. translators: %s: Author name.
+#: template-parts/post/author-bio.php:31
+msgid "View all of %s's posts."
+msgstr "عرض كل مقالات %s."
+
+#. translators: %s: Author name.
+#. translators: %s: Author name.
+#: inc/template-tags.php:49 template-parts/post/author-bio.php:19
+msgid "By %s"
+msgstr "بواسطة %s"
+
+#: template-parts/content/content-none.php:61
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما قد يساعدك البحث."
+
+#: template-parts/content/content-none.php:56
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرًا، ولكن لا شيء يتطابق مع مصطلحات البحث التي استخدمتها. يرجى المحاولة مجددًا باستخدام كلمات بحث مختلفة."
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:43
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "جاهز لنشر أول مقالة لك؟ <a href=\"%s\">ابدأ من هنا</a>."
+
+#: single.php:40
+msgid "Previous post"
+msgstr "المقالة السابقة"
+
+#: single.php:39
+msgid "Next post"
+msgstr "المقالة التالية"
+
+#. translators: %s: Parent post link.
+#: single.php:25
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">نُشر في</span><span class=\"post-title\">%s</span>"
+
+#: searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: searchform.php:24
+msgid "Search&hellip;"
+msgstr "بحث&hellip;"
+
+#. translators: %d: The number of search results.
+#: search.php:33
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] "لم نتمكن من إيجاد نتائج لبحثك."
+msgstr[1] "وجدنا نتيجة واحدة لبحثك."
+msgstr[2] "وجدنا نتيجتين لبحثك."
+msgstr[3] "وجدنا %d نتائج لبحثك."
+msgstr[4] "وجدنا %d نتيجة لبحثك."
+msgstr[5] "وجدنا %d نتيجة لبحثك."
+
+#. translators: %s: Search term.
+#. translators: %s: Search term.
+#: search.php:21 template-parts/content/content-none.php:22
+msgid "Results for \"%s\""
+msgstr "نتائج البحث عن \"%s\""
+
+#. translators: %s: List of tags.
+#. translators: %s: List of tags.
+#: inc/template-tags.php:118 inc/template-tags.php:162
+msgid "Tagged %s"
+msgstr "موسوم كـ %s"
+
+#. translators: %s: List of categories.
+#. translators: %s: List of categories.
+#: inc/template-tags.php:108 inc/template-tags.php:152
+msgid "Categorized as %s"
+msgstr "مصنف كـ %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:104 inc/template-tags.php:114
+#: inc/template-tags.php:148 inc/template-tags.php:158
+msgid ", "
+msgstr "، "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: image.php:70 image.php:95 inc/template-tags.php:92 inc/template-tags.php:135
+#: template-parts/content/content-page.php:48
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:138
+msgid "Continue reading %s"
+msgstr "متابعة قراءة %s"
+
+#: inc/block-styles.php:71
+msgid "Dividers"
+msgstr "فواصل"
+
+#: inc/block-styles.php:62
+msgid "Frame"
+msgstr "إطار"
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:80 inc/block-styles.php:89
+msgid "Borders"
+msgstr "الحدود"
+
+#: inc/block-styles.php:26
+msgid "Overlap"
+msgstr "تداخل"
+
+#: inc/block-patterns.php:116
+msgctxt "Block pattern description"
+msgid "A block with 3 columns that display contact information and social media links."
+msgstr "مكوّن مع 3 أعمدة التي تعرض معلومات الاتصال وروابط وسائل التواصل الاجتماعي."
+
+#: inc/block-patterns.php:114
+msgid "Contact information"
+msgstr "معلومات الاتصال"
+
+#: inc/block-patterns.php:106
+msgctxt "Block pattern description"
+msgid "A list of projects with thumbnail images."
+msgstr "قائمة المشاريع التي بها صور مصغرة."
+
+#: inc/block-patterns.php:104
+msgid "Portfolio list"
+msgstr "قائمة معرض أعمال"
+
+#: inc/block-patterns.php:95
+msgctxt "Block pattern description"
+msgid "An overlapping columns block with two images and a text description."
+msgstr "مكوّن أعمدة متداخلة مع صورتين ووصف نصي."
+
+#: inc/block-patterns.php:92
+msgid "Overlapping images and text"
+msgstr "صور ونصوص متداخلة"
+
+#: inc/block-patterns.php:83
+msgctxt "Block pattern description"
+msgid "A media & text block with a big image on the left and a smaller one with bordered frame on the right."
+msgstr "مكوّن وسائط ونص مع صورة كبيرة على اليسار وأخرى أصغر يحدها إطار جهة اليمين."
+
+#: inc/block-patterns.php:80
+msgid "Two images showcase"
+msgstr "معرض من صورتين"
+
+#: inc/block-patterns.php:71
+msgctxt "Block pattern description"
+msgid "Three images inside an overlapping columns block."
+msgstr "ثلاث صور داخل مكوّن أعمدة متداخلة."
+
+#: inc/block-patterns.php:68
+msgid "Overlapping images"
+msgstr "صور متداخلة"
+
+#: inc/block-patterns.php:59
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
+msgstr "مكوّن وسائط ونص مع صورة كبيرة على اليسار وعنوان على اليمين. العنوان متبوع بفاصل وفقرة وصف."
+
+#: inc/block-patterns.php:56
+msgid "Media and text article title"
+msgstr "وسائط مع نص عنوان مقالة"
+
+#: inc/block-patterns.php:48
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:48
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/block-patterns.php:48
+msgid "Instagram"
+msgstr "انستجرام"
+
+#: inc/block-patterns.php:48
+msgid "Twitter"
+msgstr "تويتر"
+
+#: inc/block-patterns.php:48
+msgid "Let&#8217;s Connect."
+msgstr "لنتواصل."
+
+#: inc/block-patterns.php:47
+msgctxt "Block pattern description"
+msgid "A huge text followed by social networks and email address links."
+msgstr "نص ضخم متبوعًا بروابط الشبكات الاجتماعية وعناوين البريد الإلكتروني."
+
+#: inc/block-patterns.php:44
+msgid "Links area"
+msgstr "منطقة الروابط"
+
+#: inc/block-patterns.php:36
+msgid "A new portfolio default theme for WordPress"
+msgstr "قالب افتراضي جديد لمعرض أعمال لـ ووردبريس"
+
+#: inc/block-patterns.php:33
+msgid "Large text"
+msgstr "نص كبير"
+
+#: image.php:83
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#. translators: %s: Publish date.
+#: inc/template-tags.php:29
+msgid "Published %s"
+msgstr "تم النشر في %s"
+
+#: comments.php:62 image.php:45 inc/template-tags.php:228
+#: template-parts/content/content-page.php:33
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:33
+msgid "Page"
+msgstr "الصفحة"
+
+#: template-parts/header/site-nav.php:19
+msgid "Close"
+msgstr "إغلاق"
+
+#: template-parts/header/site-nav.php:16
+msgid "Menu"
+msgstr "القائمة"
+
+#: functions.php:76 inc/starter-content.php:154
+#: template-parts/header/site-nav.php:13
+msgid "Primary menu"
+msgstr "القائمة الرئيسية"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "التخطي إلى المحتوى"
+
+#: functions.php:360
+msgid "Add widgets here to appear in your footer."
+msgstr "أضف بعض الودجات هنا لتظهر في تذييل موقعك."
+
+#: functions.php:358
+msgid "Footer"
+msgstr "التذييل"
+
+#: functions.php:309
+msgid "Red to purple"
+msgstr "الأحمر إلى الأرجواني"
+
+#: functions.php:304
+msgid "Purple to red"
+msgstr "الأرجواني إلى الأحمر"
+
+#: functions.php:299
+msgid "Yellow to red"
+msgstr "الأصفر إلى الأحمر"
+
+#: functions.php:294
+msgid "Red to yellow"
+msgstr "الأحمر إلى الأصفر"
+
+#: functions.php:289
+msgid "Yellow to green"
+msgstr "الأصفر إلى الأخضر"
+
+#: functions.php:284
+msgid "Green to yellow"
+msgstr "الأخضر إلى الأصفر"
+
+#: functions.php:279
+msgid "Yellow to purple"
+msgstr "الأصفر إلى الأرجواني"
+
+#: functions.php:274
+msgid "Purple to yellow"
+msgstr "الأرجواني إلى الأصفر"
+
+#: functions.php:263
+msgid "White"
+msgstr "أبيض"
+
+#: functions.php:258
+msgid "Yellow"
+msgstr "أصفر"
+
+#: functions.php:253
+msgid "Orange"
+msgstr "برتقالي"
+
+#: functions.php:248
+msgid "Red"
+msgstr "أحمر"
+
+#: functions.php:243
+msgid "Purple"
+msgstr "أرجواني"
+
+#: functions.php:238
+msgid "Blue"
+msgstr "أزرق"
+
+#: functions.php:233
+msgid "Green"
+msgstr "أخضر"
+
+#: functions.php:228
+msgid "Gray"
+msgstr "رمادي"
+
+#: functions.php:223 inc/block-styles.php:107
+msgid "Dark gray"
+msgstr "رمادي داكن"
+
+#: functions.php:218
+msgid "Black"
+msgstr "أسود"
+
+#: functions.php:186
+msgid "Gigantic"
+msgstr "عملاق"
+
+#: functions.php:180
+msgid "Huge"
+msgstr "ضخم"
+
+#: functions.php:174
+msgid "Extra large"
+msgstr "كبير جداً"
+
+#: functions.php:168
+msgid "Large"
+msgstr "كبير"
+
+#: functions.php:162
+msgid "Normal"
+msgstr "عادي"
+
+#: functions.php:156
+msgid "Small"
+msgstr "صغير"
+
+#: functions.php:150
+msgid "Extra small"
+msgstr "صغير جدًا"
+
+#. translators: %s: WordPress.
+#: footer.php:60
+msgid "Proudly powered by %s."
+msgstr "مدعوم بواسطة %s بكل فخر."
+
+#: footer.php:24 functions.php:77 inc/starter-content.php:165
+msgid "Secondary menu"
+msgstr "القائمة الثانوية"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:71
+msgid "Newer comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:67
+msgid "Older comments"
+msgstr "التعليقات الأقدم"
+
+#: classes/class-twenty-twenty-one-customize.php:109
+msgid "Full text"
+msgstr "النص بالكامل"
+
+#: classes/class-twenty-twenty-one-customize.php:75
+msgid "Display Site Title & Tagline"
+msgstr "عرض عنوان الموقع وسطر الوصف"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: 404.php:16 template-parts/content/content-none.php:30
+msgid "Nothing here"
+msgstr "لا شيء هنا"
+
+#. Author URI of the theme
+#: footer.php:61
+msgid "https://wordpress.org/"
+msgstr "https://ar.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "فريق ووردبريس"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwentyone/"
+msgstr "https://ar.wordpress.org/themes/twentytwentyone/"
